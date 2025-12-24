@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "type": "message",
+      "replyToken": "1234567890",
+      "message": {
+        "type": "text",
+        "text": "請解釋 RAG 是什麼"
+      }
+    }
+  ]
+}
