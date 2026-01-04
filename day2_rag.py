@@ -16,6 +16,7 @@ test_documents = [
     "LangChain 是一個用於構建 AI Agent 和 RAG 應用的框架。",
     "Semantic Kernel 是微軟推出的 AI agent 框架。",
     "FAISS向量資料庫用來儲存文件的 embedding，方便做語意搜尋。",
+    "黃義倫是一位AI工程師",
 ]
 
 # --- Step 1: 建立文件的 embeddings 並儲存到 FAISS 向量資料庫 ---
